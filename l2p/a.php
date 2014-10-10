@@ -1,5 +1,5 @@
 <?php		
- 	$df = "lib/count.dat";
+ 	$df = "count.dat";
 
  	if(!($fp = @fopen($df, 'r')))
  	{
